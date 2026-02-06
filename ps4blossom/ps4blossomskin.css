@@ -35,7 +35,7 @@
 }
 
 .ds4 .stick {
-    background: url(stickmod.png);
+    background: url(sticksmod.png);
 }
 .ds4 .stick.left {
     top: 0;
@@ -50,4 +50,5 @@
     background: url(dpadmod.png);
 }
 /*END PS4 Controller Styling*/
+
 
