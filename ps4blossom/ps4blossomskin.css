@@ -37,7 +37,17 @@
 .ds4 .stick {
     background: url(stickmod.png);
 }
+.ds4 .stick.left {
+    top: 0;
+    left: 0;
+}
+
+.ds4 .stick.right {
+    top: calc(100% - 105px);
+    left: calc(100% - 105px);
+}
 .ds4 .face {
     background: url(dpadmod.png);
 }
 /*END PS4 Controller Styling*/
+
